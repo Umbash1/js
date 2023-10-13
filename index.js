@@ -7,5 +7,3 @@ box.style.borderRadius = input.value;
 box.style.background = input.value
 
 }
-
-)
