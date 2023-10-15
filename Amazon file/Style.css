@@ -97,7 +97,7 @@
     display: flex;
     align-items: center;
     background-size: cover;
-    background-image: url(amazon_logo.png);
+    background-image: url(IMG-20231006-WA0000.jpg);
 }
 .flag {
     display: flex;
@@ -112,4 +112,6 @@
 .nav-sec {
     font-size: 0.7rem;
     font-weight: 700;
+
+
 }
